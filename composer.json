@@ -6,10 +6,10 @@
   "version": "5.0.1",
   "require": {
     "php": "^8.2",
-    "craftcms/cms": "^5.0.0",
-    "sebastianlenz/craft-utils": "dev-main"
+    "craftcms/cms": "^5.1.3",
+    "sebastianlenz/craft-utils": "^4.0.0-beta"
   },
-  "require-dev": {
+  "require-dev":
     "craftcms/feed-me": "^5.0",
     "craftcms/phpstan": "dev-main",
     "phpstan/phpstan": "^1.8.5",
